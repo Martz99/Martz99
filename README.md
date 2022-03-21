@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Martz99
 - 👀 I’m interested in Graphic & Web Design 
 - 🌱 I’m currently learning UI/UX Design
-- 💞️ I’m looking to collaborate on with with dynamic people who want to teach inexperienced young people!
+- 💞️ I’m looking to collaborate on with dynamic people who want to teach inexperienced young people!
 - 📫 How to reach me on: wwww.martavitali.eu/wordpress/
 
 <!---
